@@ -1,0 +1,12 @@
+# Python 编译文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 虚拟环境
+venv/
+env/
+.env
+
+# Streamlit 缓存
+.streamlit/
